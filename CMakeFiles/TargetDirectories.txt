@@ -1,0 +1,3 @@
+/home/georgyg/Documents/PROJECTS/webcamToASCII_C++/CMakeFiles/rebuild_cache.dir
+/home/georgyg/Documents/PROJECTS/webcamToASCII_C++/CMakeFiles/edit_cache.dir
+/home/georgyg/Documents/PROJECTS/webcamToASCII_C++/CMakeFiles/opencvTest.dir
